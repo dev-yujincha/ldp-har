@@ -1,0 +1,20 @@
+We want to inform you about the mini-project.
+Please read the following carefully.
+
+Mini Project Guides
+
+ - The  goal of this mini-project is to write a short 6-page paper on a small research idea, which can hopefully be extended to a full paper later
+ - The mini-project can be conducted personally or as a team of two
+ - As the first step, please write a 2-page proposal
+ - The proposal should include the following:
+	 - Motivation
+	 - Research problems (on any topic related to this course, e.g., mobile sensing, efficient ml models and systems)
+	 - Existing solutions and their limitations
+	 - The approach to tackle the problem
+	 - Expected technical challenges and solution ideas (strongly encouraged to have at least one novel/strong component)
+	 - Evaluation strategy (initial results are welcome to include)
+
+ - Important Dates:
+	- 2-page proposal: November 2nd 11:59pm
+	- 6-page final paper and presentation slides: December 7th 11:59pm
+	- Final presentations: December 9th/11th classes

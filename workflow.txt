@@ -1,0 +1,17 @@
+### Immediate To-Do List (in correct order)
+
+To avoid being overwhelmed, follow this order:
+
+1. Load dataset + implement baseline LR & CNN models
+2. Extract feature vectors
+3. Implement geometry-aware clipping (3 methods)
+4. Implement Laplace LDP and generate first utility curves
+5. Implement bout detection + shuffling + pseudonym rotation + timestamp perturbation
+6. Run unlinkability attack models and compute AUC
+7. Run combined pipeline
+8. Perform ablations
+9. Measure overhead
+10. Assemble plots + write paper
+
+This is the fastest possible path to a full mini-paper.
+
